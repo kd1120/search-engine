@@ -26,3 +26,7 @@ The integration of a web crawler allows the search engine to continuously update
 The Search Engine with Web Crawler Integration offers users a powerful and efficient tool to discover web content related to their queries. By combining the functionalities of a search engine and a web crawler, users can explore a vast array of web pages and find relevant information quickly and accurately.
 
 Built using Java Swing, Maven, Jsoup, and MySQL, this application demonstrates the seamless integration of frontend and backend technologies to provide a robust and user-friendly search experience. Whether for research, information gathering, or general curiosity, the Search Engine with Web Crawler Integration empowers users with a reliable and comprehensive search tool.
+
+
+
+Made with❤️ 
