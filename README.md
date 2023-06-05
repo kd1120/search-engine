@@ -1,4 +1,4 @@
-# search-engine
+# Search-Engine
 
 The Search Engine with Web Crawler Integration is a Java Swing application developed using Maven, Jsoup, and MySQL. It combines the functionality of a search engine with a powerful web crawler backend that utilizes a Depth-First Search (DFS) approach to retrieve and present users with the top 30 web pages related to their query.
 
